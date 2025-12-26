@@ -81,9 +81,11 @@ Copyright (c) 2025 YOUR_NAME
 
 ## Author Info
 
-GitHub: [https://github.com/your-handle](https://github.com/your-handle)  
-Email: you@example.com  
-Public contact: [https://x.com/your-handle](https://x.com/your-handle)  
+GitHub: [https://github.com/lad-sharper](https://github.com/lad-sharper)  
+
+Email: lad.sharper.0j@icloud.com
+
+My twitter: [https://x.com/daniell93273247](https://x.com/daniell93273247)  
 
 ---
 
